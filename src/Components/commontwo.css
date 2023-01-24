@@ -1,0 +1,11 @@
+.cor {
+    background-color:#82AAE3;
+}
+.fr {
+    display: flex !important;
+    flex-direction: row-reverse !important;
+}
+/* hr {
+    margin: 0 auto !important;
+    width: 70%;
+} */
